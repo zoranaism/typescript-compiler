@@ -1,1 +1,3 @@
-console.log('Time to get started...');
+const userName = "Zorana";
+
+console.log(userName);
